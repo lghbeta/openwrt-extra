@@ -1,2 +1,3 @@
-# openwrt-extra
-OpenWrt Extra Packages
+# OpenWrt Extra Packages
+- luci-app-autoreboot
+- luci-app-zerotier
